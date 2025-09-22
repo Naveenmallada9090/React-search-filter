@@ -1,3 +1,3 @@
 Output 
 
-<img width="501" height="361" alt="Screenshot 2025-09-19 105846" src="https://github.com/user-attachments/assets/e10cb5ab-4d8e-4304-aaa4-9d8c22fdccb5" />
+<img width="461" height="321" alt="image" src="https://github.com/user-attachments/assets/c9c2f4a9-cf30-42a8-bd8f-4642140c5fcd" />
